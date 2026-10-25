@@ -2,8 +2,6 @@
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
-
-
 =======
 <<<<<<< HEAD
 - [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
@@ -16,10 +14,10 @@
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  
 Atharv Singh
-
 - [Lafin Fibrish G](https://github.com/Fibrish) - My beginning🍀
 - [RobsHs](https://github.com/RobsHs) - First open source contribution!
-- [hrundong0305](https://github.com/hrundong0305) - My first open source contribution!- [Abrar](https://github.com/mohabhab786-hue) - My first open-source contribution!
+- [hrundong0305](https://github.com/hrundong0305) - My first open source contribution!
+- [Abrar](https://github.com/mohabhab786-hue) - My first open-source contribution!
 - [Pradyumna Parida](https://github.com/Pradyumna-red) - First open source contribution!🚀
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
@@ -32,14 +30,13 @@ Atharv Singh
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
 - [Bala Saastha B](https://github.com/bbs-669) - My first open-source contribution! Woohoo
-- 
 - [boob-min]-Begin begin
 - [Shikaru0](https://github.com/Shikaru0)
 - [Double](https://github.com/Double2007) - Let's see what can happen
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Parth Bairagi](https://github.com/TITAN-beast) -- My First Open Source Contribution
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
-- [hrundong0305](https://github.com/hrundong0305) - My first open source contribution!- [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
+- [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
 - [Brandon kipkirui yegon](https://github.com/tommy012hk-coder)
 - [Logaranjani G P](https://github.com/Logaranjani345)
 - [Jaime Medina](https://github.com/anjailo-me) - Practicing the pull-request flow
